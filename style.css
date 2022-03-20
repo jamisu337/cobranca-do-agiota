@@ -15,15 +15,18 @@ body{
 
 header{
     background-color: black;
+    box-shadow: 0 0 1em black;
+}
+
+header h1{
     color: aliceblue;
-    text-align: center;
     margin: auto;
+    text-align: center;
     padding-top: 30px;
     padding-bottom: 20px;
     font-family: 'marcellus';
     font-variant: small-caps;
-    font-size: 25px;
-    box-shadow: 0 0 1em black;
+    font-size: 50px;
 }
 
 main{
