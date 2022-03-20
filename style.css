@@ -32,7 +32,7 @@ header h1{
 main{
     background-image: url(imagens/17544.png);
     background-size: cover;
-    width: 450px;
+    max-width: 500px;
     height: 98vh;
     margin: auto;
     text-align: center;
